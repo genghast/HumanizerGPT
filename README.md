@@ -1,8 +1,12 @@
 # HumanizerGPT
 
 This project is a Essay/Code generator but has 0% AI detection. Tested with ZeroGPT, Quilbot AI detection, etc. ***DISCLAIMER: The author does not endorse the use of this app for any unethical purposes***
+<<<<<<< HEAD
 
-Link to hackathon submission: https://devpost.com/software/humanizergpt
+Link to hackathon submission: <https://devpost.com/software/humanizergpt>
+=======
+>>>>>>>
+>>>>>>> 2344a44 (Update README.md)
 
 ## Tech Stack
 
@@ -27,7 +31,6 @@ The backend server is built with Go and it serves static files from the `fronten
 3. Run `go run main/server.go` to start the backend server. The server will serve the static files built in step 1.
 
 Please make sure to update the `.env` file with your specific settings before running the application.
-
 
 ## Contributing
 
